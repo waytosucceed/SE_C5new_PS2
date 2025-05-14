@@ -1,0 +1,177 @@
+{
+  "heading": "Relationship Between HCF and LCM",
+  "topics": [
+    {
+      "heading": "Relationship Between HCF and LCM",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "The HCF of two numbers is 6, and their LCM is 360. If one of the numbers is 60, find the other number.",
+    "options": [
+      { "text": "30" },
+      { "text": "72" },
+      { "text": "60" },
+      { "text": "36" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 2,
+    "question": "Two numbers are 28 and 42. If their HCF is 14, what is their LCM?",
+    "options": [
+      { "text": "42" },
+      { "text": "56" },
+      { "text": "84" },
+      { "text": "168" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": "The least number which is exactly divisible by 32, 24 and 40 is:",
+    "options": [
+      { "text": "320" },
+      { "text": "480" },
+      { "text": "960" },
+      { "text": "1920" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "Two numbers have a sum of 70 and a product of 1,260. If their HCF is 14, what is their LCM?",
+    "options": [
+      { "text": "126" },
+      { "text": "90" },
+      { "text": "120" },
+      { "text": "180" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "Two numbers share a greatest divisor of 12 and a smallest shared multiple of 54. If one of the numbers is 27, find the other.",
+    "options": [
+      { "text": "36" },
+      { "text": "24" },
+      { "text": "27" },
+      { "text": "30" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": "Two numbers are such that their smallest shared multiple is 102, and their greatest divisor is 6. If one number is 12, find the other number.",
+    "options": [
+      { "text": "24" },
+      { "text": "36" },
+      { "text": "42" },
+      { "text": "51" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 7,
+    "question": "Suppose two numbers a and b are such that HCF(a, b) = 1 and LCM(a, b) = 210. What is the minimum possible value of a + b?",
+    "options": [
+      { "text": "29" },
+      { "text": "31" },
+      { "text": "211" },
+      { "text": "49" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": "Two numbers multiply to give 1,056 and their HCF is 11. What is their LCM?",
+    "options": [
+      { "text": "96" },
+      { "text": "110" },
+      { "text": "196" },
+      { "text": "221" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": "If the LCM of two numbers is 360 and their HCF is 5, which pair could the numbers be?",
+    "options": [
+      { "text": "15 and 120" },
+      { "text": "30 and 60" },
+      { "text": "20 and 18" },
+      { "text": "45 and 40" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": "Two numbers have a sum of 96 and a product of 2,304. If their HCF is 12, what is their LCM?",
+    "options": [
+      { "text": "192" },
+      { "text": "288" },
+      { "text": "312" },
+      { "text": "432" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": "If the LCM of 105 and 315 is 105R + 210, what is the value of R?",
+    "options": [
+      { "text": "0" },
+      { "text": "1" },
+      { "text": "2" },
+      { "text": "3" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 12,
+    "question": "The HCF and LCM of two numbers are 21 and 3528 respectively. If one number divided by 84 gives quotient 2, find the other number.",
+    "options": [
+      { "text": "882" },
+      { "text": "459" },
+      { "text": "441" },
+      { "text": "420" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 13,
+    "question": "If the LCM of three numbers is 6720, which of the following can be their HCF?",
+    "options": [
+      { "text": "13" },
+      { "text": "12" },
+      { "text": "20" },
+      { "text": "16" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": "The HCF of two numbers is 18. Which of the following cannot be their LCM?",
+    "options": [
+      { "text": "198" },
+      { "text": "432" },
+      { "text": "216" },
+      { "text": "172" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 15,
+    "question": "The HCF of two numbers is 17. If the other two factors of their LCM are 9 and 11, find the larger number.",
+    "options": [
+      { "text": "187" },
+      { "text": "183" },
+      { "text": "199" },
+      { "text": "189" }
+    ],
+    "answer": 0
+  }
+]
+
+      
+    }
+  ]
+}
