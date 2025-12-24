@@ -116,7 +116,7 @@
   },
   {
     "questionNo": 11,
-    "question": "If the LCM of 105 and 315 is 105R + 210, what is the value of R?",
+    "question": "If the LCM of 105 and 315 is 105×R + 210, what is the value of R?",
     "options": [
       { "text": "0" },
       { "text": "1" },
@@ -138,7 +138,7 @@
   },
   {
     "questionNo": 13,
-    "question": "If the LCM of three numbers is 6720, which of the following can be their HCF?",
+    "question": "If the LCM of three numbers is 6720, which of the following cannot be their HCF?",
     "options": [
       { "text": "13" },
       { "text": "12" },
@@ -175,3 +175,4 @@
     }
   ]
 }
+
